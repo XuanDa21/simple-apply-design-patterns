@@ -1,0 +1,1 @@
+The Drawing Shapes System employs several design patterns to facilitate flexible shape creation, drawing, and modification. The wire description outlines the connections and interactions between key classes and design patterns.
